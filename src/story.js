@@ -1,0 +1,202 @@
+export const chapters = [
+  {
+    "title": "The Beginning of Us",
+    "emoji": "🎒",
+    "kicker": "A STORY WRITTEN IN THE STARS",
+    "side": "Some stories begin with a hello. Ours began before we even knew it.",
+    "footer": "THE BEGINNING",
+    "paragraphs": [
+      "It all started in school, when our lives were simple, homework was our biggest problem, and happiness meant getting an extra lunch break.",
+      "Two hearts, living their own little worlds, never knowing that one day we would become each other's favourite person.",
+      "Maybe it started with a simple glance across the classroom.",
+      "Maybe it was a random conversation, a silly joke, or a little argument.",
+      "At first, everything seemed normal. We were just two school students sharing ordinary days.",
+      "But slowly, something changed.",
+      "Looking at each other became a habit. Smiling at each other became automatic. And suddenly, even the most boring school day became special just because we had each other around.",
+      "Neither of us knew what to call it.",
+      "But our little story had begun. ❤️"
+    ]
+  },
+  {
+    "title": "Our Cute Little Crush",
+    "emoji": "💕",
+    "kicker": "THE BUTTERFLY DAYS",
+    "side": "A single notification. A thousand butterflies. A whole world in one little smile.",
+    "footer": "THE CRUSH",
+    "paragraphs": [
+      "Remember those days when just one look was enough to make our hearts race?",
+      "When seeing each other's names on the phone brought the biggest smiles?",
+      "When a simple \"Did you eat?\" felt more special than a thousand romantic words?",
+      "We started talking more, laughing more, and sharing little secrets.",
+      "We found reasons to talk, even when we had absolutely nothing important to say.",
+      "Sometimes we teased each other. Sometimes we fought over silly things. Sometimes we waited for messages that took forever to arrive.",
+      "And slowly, our friendship turned into something beautiful.",
+      "We weren't just two people talking anymore.",
+      "We were becoming each other's favourite notification, favourite conversation, and favourite part of every day."
+    ]
+  },
+  {
+    "title": "When We Fell in Love",
+    "emoji": "💌",
+    "kicker": "THREE LITTLE WORDS",
+    "side": "And then three little words turned two separate stories into one.",
+    "footer": "I LOVE YOU",
+    "paragraphs": [
+      "One day, we realised that our feelings were much bigger than we had imagined.",
+      "It wasn't just about butterflies anymore.",
+      "It was about caring.",
+      "It was about worrying when one of us was sad. It was about wanting to share every little achievement. It was about missing each other even after talking all day.",
+      "And then came those three magical words:",
+      "\"I LOVE YOU.\"",
+      "Maybe we were nervous. Maybe we were shy. Maybe we didn't know what would happen next.",
+      "But those words changed everything.",
+      "From that moment, we weren't writing two separate stories anymore.",
+      "We were writing one beautiful story together."
+    ]
+  },
+  {
+    "title": "Growing Up Together",
+    "emoji": "🌷",
+    "kicker": "LOVE IN EVERY SEASON",
+    "side": "We learned that forever isn't perfection. It's choosing each other, again and again.",
+    "footer": "GROWING TOGETHER",
+    "paragraphs": [
+      "Our school days eventually became memories.",
+      "Our uniforms were replaced by everyday clothes. Our classroom conversations became phone calls. Our school timetable became busy schedules.",
+      "Life started getting serious.",
+      "Studies, careers, responsibilities, family expectations, and dreams became part of our everyday world.",
+      "Not every day was perfect.",
+      "We had misunderstandings, little fights, silent treatments, tears, and moments when we didn't know how to explain what we were feeling.",
+      "Sometimes we made mistakes. Sometimes we hurt each other without meaning to.",
+      "But we also learned to apologise, forgive, listen, and understand.",
+      "We learned that love wasn't about being perfect.",
+      "It was about choosing each other even when things weren't perfect.",
+      "We became each other's biggest supporters.",
+      "Whenever one of us felt weak, the other became a little strength.",
+      "Whenever one of us doubted ourselves, the other reminded us of our worth.",
+      "We were growing up, but we never wanted to grow apart."
+    ]
+  },
+  {
+    "title": "Our Dreams of Tomorrow",
+    "emoji": "✨",
+    "kicker": "A FUTURE FULL OF LITTLE THINGS",
+    "side": "The biggest dream was never a perfect house. It was a home that felt like us.",
+    "footer": "DREAMING OF TOMORROW",
+    "paragraphs": [
+      "As time passed, our conversations started changing.",
+      "Earlier, we talked about school, friends, and silly things.",
+      "Now, we started talking about our future.",
+      "\"What if we live together someday?\"",
+      "\"What would our house look like?\"",
+      "\"Who will cook?\"",
+      "\"Who will get angry first?\"",
+      "\"Will we still be this silly when we're old?\"",
+      "We started imagining our little home.",
+      "A home filled with morning coffee, messy bedrooms, shared responsibilities, weekend trips, random shopping, movie nights, and endless laughter.",
+      "We imagined celebrating birthdays together, travelling to beautiful places, and making memories that would last forever.",
+      "Our biggest dream wasn't a luxurious life.",
+      "It was a peaceful life with each other."
+    ]
+  },
+  {
+    "title": "The Promise of Forever",
+    "emoji": "💍",
+    "kicker": "A QUESTION, A THOUSAND YESSES",
+    "side": "The future stopped being a daydream. It became a promise we could hold.",
+    "footer": "THE PROMISE",
+    "paragraphs": [
+      "And then came the day we had secretly dreamed about.",
+      "A beautiful moment, filled with nervous smiles and happy tears.",
+      "One of us looked into the other's eyes and asked:",
+      "\"Will you be mine forever?\"",
+      "For a second, the world seemed to stop.",
+      "All our memories came rushing back.",
+      "Our first meeting. Our first conversation. Our first smile. Our first fight. Our first I love you.",
+      "And now, we were standing at the beginning of a new chapter.",
+      "The answer was simple.",
+      "\"YES. A thousand times YES!\"",
+      "We weren't just dreaming about forever anymore.",
+      "We were finally getting ready to live it."
+    ]
+  },
+  {
+    "title": "Our Wedding Day",
+    "emoji": "❤️",
+    "kicker": "TWO HEARTS, ONE HOME",
+    "side": "From secret glances to wedding vows. Every little moment led us here.",
+    "footer": "HUSBAND & WIFE",
+    "paragraphs": [
+      "The most beautiful day of our lives finally arrived.",
+      "Our house was decorated. Our families were celebrating. Our friends were laughing. Beautiful flowers filled the wedding hall.",
+      "There we were, getting ready for the moment we had imagined so many times.",
+      "When our eyes finally met, we smiled.",
+      "How could we not?",
+      "We had come such a long way.",
+      "From school uniforms to wedding outfits.",
+      "From secret glances to standing together in front of everyone.",
+      "From innocent crushes to a lifelong promise.",
+      "As we held hands during our wedding rituals, we silently remembered every little moment that had brought us there.",
+      "All those years, all those memories, all those little fights, and all those beautiful moments had led us to this one day.",
+      "And finally, we promised to stay together through every season of life.",
+      "Not just on happy days.",
+      "Not just when everything was easy.",
+      "But through every challenge, every change, and every new beginning.",
+      "That day, we became husband and wife.",
+      "Two hearts, one home, one lifetime. ❤️"
+    ]
+  },
+  {
+    "title": "Our Little Family",
+    "emoji": "🏡",
+    "kicker": "THE EVERYDAY MAGIC",
+    "side": "The wedding was never the ending. It was the start of a thousand ordinary adventures.",
+    "footer": "OUR LITTLE HOME",
+    "paragraphs": [
+      "Our wedding wasn't the ending.",
+      "It was the beginning of our favourite adventure.",
+      "Our first morning together as husband and wife.",
+      "Our first breakfast.",
+      "Our first little disagreement about what to eat.",
+      "Our first holiday.",
+      "Our first anniversary.",
+      "Our first home.",
+      "Our little traditions, inside jokes, silly nicknames, and countless photographs.",
+      "Some days would be romantic. Some days would be chaotic. Some days would be completely ordinary.",
+      "But even the ordinary days would feel special because we would have each other.",
+      "We would keep discovering new things about each other, growing together, supporting each other's dreams, and creating memories we would talk about for years.",
+      "And whenever we looked back at our old school photographs, we would smile.",
+      "\"Look at us. We were just kids back then!\"",
+      "Who would have imagined that those two little school students would one day build an entire life together?"
+    ]
+  },
+  {
+    "title": "In Every Lifetime, It's Still Us",
+    "emoji": "♾️",
+    "kicker": "THE END? NEVER. JUST OUR BEGINNING.",
+    "side": "If the universe gave us a thousand lifetimes, we'd still find our way back.",
+    "footer": "IN EVERY LIFETIME",
+    "paragraphs": [
+      "Years later, when our hair turns grey and our steps become slower, we will still hold hands.",
+      "We will still tease each other.",
+      "We will still pretend to be angry over silly things.",
+      "We will still laugh at the same old jokes.",
+      "And maybe one evening, sitting together, one of us will ask:",
+      "\"If you could go back in time, would you choose me again?\"",
+      "And the other will smile and reply:",
+      "\"Of course. In every lifetime. In every universe. I would find you again.\"",
+      "Because ours was never just a love story.",
+      "It was a story of two school kids who grew up, two hearts that found each other, two souls that chose each other, and two people who decided to make forever out of ordinary days.",
+      "We started as strangers.",
+      "We became classmates.",
+      "We became friends.",
+      "We became lovers.",
+      "We became each other's favourite person.",
+      "And one day, we will become husband and wife.",
+      "But no matter how much life changes, I hope we never stop being those two silly kids who smile just by looking at each other.",
+      "From our first hello to our wedding vows, from our little school memories to our future family, it's always going to be you and me.",
+      "One story. Two hearts. Countless memories. One forever.",
+      "Our Little Forever. ♡"
+    ]
+  }
+];
